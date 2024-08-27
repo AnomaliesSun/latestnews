@@ -1,4 +1,4 @@
-Latest version is [b][55FFAA]0.603[-][/b] | Please [b][FF5555]check version number above[-][/b], make sure you are up-to-date!
+Latest version is [b][55FFAA]0.01[-][/b] | Please [b][FF5555]check version number above[-][/b], make sure you are up-to-date!
 [b][00FFFF]Fractal Space[-][/b] [b][FFCC00]Classic[-][/b] is in [b][FF5555]early concept stage[-][/b]. Final look may [b][FF5555]differ[-][/b]. 
 - [b][FF5555]SILENT DIALOGS:[-][/b] After CH1, they are [b][FF5555]NOT A BUG[-][/b] - they [b][00FFFF]aren't recorded yet[-][/b]. No need to report them!
 - [b][FFCC00]WARNING:[-][/b] Please [b][00FFFF]!Reset Save![-][/b] or start [b][00FFFF]NEW GAME[-][/b] after update, to [b][00FFFF]avoid bugs[-][/b]
