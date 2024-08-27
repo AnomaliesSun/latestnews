@@ -1,11 +1,3 @@
 Latest version is [b][55FFAA]0.01[-][/b] | Please [b][FF5555]check version number above[-][/b], make sure you are up-to-date!
 [b][00FFFF]Fractal Space[-][/b] [b][FFCC00]Classic[-][/b] is in [b][FF5555]early concept stage[-][/b]. Final look may [b][FF5555]differ[-][/b]. 
-- [b][FF5555]SILENT DIALOGS:[-][/b] After CH1, they are [b][FF5555]NOT A BUG[-][/b] - they [b][00FFFF]aren't recorded yet[-][/b]. No need to report them!
-- [b][FFCC00]WARNING:[-][/b] Please [b][00FFFF]!Reset Save![-][/b] or start [b][00FFFF]NEW GAME[-][/b] after update, to [b][00FFFF]avoid bugs[-][/b]
-- [b][55FFAA]NEW:[-][/b] [b][00FFFF]Chapter 3:[-][/b] First room has been [b][00FFFF]entirely re-designed![-][/b]
-- [b][55FFAA]NEW:[-][/b] [b][00FFFF]Lighting System Rework:[-][/b] Slightly darker, [b][00FFFF]less blinding[-][/b] overall
-- [b][55FFAA]NEW:[-][/b] [b][00FFFF]Static Reflections Rework:[-][/b] More accurate, [b][00FFFF]less distortions[-][/b]
-- [b][55FFAA]NEW:[-][/b] [b][00FFFF]White Reflection Circles:[-][/b] Big [b][00FFFF]white circles[-][/b] are now [b][00FFFF]less distracting[-][/b] on surfaces
-- [b][55FFAA]NEW:[-][/b] [b][00FFFF]Light Flares:[-][/b] New [b][00FFFF]horizontal-shaped[-][/b] lens flares for [b][00FFFF]all lights![-][/b]
-- [b][55FFAA]NEW:[-][/b] [b][00FFFF]Tooltips:[-][/b] New [b][00FFFF]Tooltips[-][/b] for many Options!
-- [b][55FFAA]FIXED:[-][/b] Hundreds of [b][00FFFF]bug fixes[-][/b] from [00FFFF]in-game Bug Reports[-] - [b][00FFFF]Thank you![-][/b]
+Initial release using OpenSpace.
