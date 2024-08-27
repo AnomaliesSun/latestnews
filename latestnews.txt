@@ -1,4 +1,4 @@
 Latest version is [b][55FFAA]0.01[-][/b] | Please [b][FF5555]check version number above[-][/b], make sure you are up-to-date!
 [b][00FFFF]Fractal Space[-][/b] [b][FFCC00]Classic[-][/b] is in [b][FF5555]early concept stage[-][/b]. Final look may [b][FF5555]differ[-][/b]. 
 Initial release using OpenSpace.
-Live Update test.
+Live Update test
